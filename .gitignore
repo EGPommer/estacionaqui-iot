@@ -1,0 +1,8 @@
+# Credenciais reais (só o config.example.h vai para o repositório)
+config.h
+.env
+
+# Banco de dados e lixo do Python
+*.db
+__pycache__/
+*.pyc

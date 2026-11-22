@@ -14,7 +14,7 @@ Todo o projeto roda **simulado no Wokwi** (sem hardware físico).
 
 Link do projeto no Wokwi: https://wokwi.com/projects/480779562144604161
 Painel no ar: https://egpcardoso.pythonanywhere.com
-Vídeo de demonstração: **COLE-AQUI-O-LINK-DO-VÍDEO**
+Vídeo de demonstração: https://youtu.be/p5qdk8RXpUI
 
 ## As quatro camadas
 | Camada | O que usamos |
